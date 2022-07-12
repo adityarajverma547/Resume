@@ -1,0 +1,78 @@
+{
+    "basics": {
+        "name": "Aditya Raj Verma",
+        "label": "Student",
+        "email": "2021kucp1061@iiitkota.ac.in",
+        "phone": "+919838892549",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Reoti",
+            "postalCode": "277209",
+            "city": "Ballia",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "@ADITYAR31055942",
+                "url": "https://twitter.com/ADITYAR31055942"
+            },
+            {
+                "network": "linkedin",
+                "username": "adityarajverma",
+                "url": "https://www.linkedin.com/in/aditya-raj-verma-0b8121213/"
+            },
+            {
+                "network": "Instagram",
+                "username": "___adi__10",
+                "url": "https://www.instagram.com/___adi__10/"
+            }
+        ]
+    },
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+    ],
+    "publications": [ 
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Hindi,English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Football",
+                "Badminton"
+            ]
+        }
+    ]
+}
