@@ -20,13 +20,18 @@
             },
             {
                 "network": "linkedin",
-                "username": "adityarajverma",
+                "username": "aditya-raj-verma-0b8121213",
                 "url": "https://www.linkedin.com/in/aditya-raj-verma-0b8121213/"
             },
             {
                 "network": "Instagram",
                 "username": "___adi__10",
                 "url": "https://www.instagram.com/___adi__10/"
+            },
+            {
+                "network": "Github",
+                "username": "adityarajverma547"
+                "url": "https://github.com/adityarajverma547"
             }
         ]
     },
