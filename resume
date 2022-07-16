@@ -1,83 +1,82 @@
 {
-    "basics": {
-        "name": "Aditya Raj Verma",
-        "label": "Student",
-        "email": "2021kucp1061@iiitkota.ac.in",
-        "phone": "+919838892549",
-        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. I have enthusiasm in Full Stack development.",
-        "location": {
-            "address": "Reoti",
-            "postalCode": "277209",
-            "city": "Ballia",
-            "countryCode": " India",
-            "region": "Uttar Pradesh"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "@ADITYAR31055942",
-                "url": "https://twitter.com/ADITYAR31055942"
-            },
-            {
-                "network": "linkedin",
-                "username": "aditya-raj-verma-0b8121213",
-                "url": "https://www.linkedin.com/in/aditya-raj-verma-0b8121213/"
-            },
-            {
-                "network": "Instagram",
-                "username": "___adi__10",
-                "url": "https://www.instagram.com/___adi__10/"
-            },
-            {
-                "network": "Github",
-                "username": "adityarajverma547"
-                "url": "https://github.com/adityarajverma547"
-            }
-        ]
-    },
-    ],
-    "education": [
-        {
-            "institution": "Indian Institute of Information Technology,Kota",
-            "area": "Engineering",
-            "studyType": "Bachelor (hons)",
-            "startDate": "",
-            "endDate": "",
-            "gpa": "",
-            "courses": [
-                "Computer Science & Engineering"
-            ]
-        }
-    ],
-    "awards": [
-    ],
-    "publications": [ 
-    ],
-    "skills": [
-        {
-            "name": "Full Stack Development",
-            "level": "Master",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript",
-                "C/C++"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "Hindi,English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Playing",
-            "keywords": [
-                "Football",
-                "Badminton"
-            ]
-        }
-    ]
+	"basics": {
+		"name": "Aditya Raj Verma",
+		"label": "Student",
+		"picture": "",
+		"email": "2021kucp1061@iiitkota.ac.in",
+		"phone": "+919838892549",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India),persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Reoti",
+			"postalCode": "277209",
+			"city": "Ballia",
+			"countryCode": " India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "adityarajverma547",
+				"url": "https://www.github.com/adityarajverma547"
+			},
+			{
+				"network": "linkedin",
+				"username": "adityarajverma547",
+				"url": "https://www.linkedin.com/in/adityarajverma547/"
+			},
+			{
+				"network": "Instagram",
+				"username": "___adi__10",
+				"url": "https://www.instagram.com/___adi__10/"
+			}
+		]
+	},
+	"work": [{
+		"company": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": ""
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+		"title": "",
+		"details": "",
+		"link": ""
+	}],
+	"skills": [{
+		"name": "Full Stack Development",
+		"level": "",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+		"name": "Playing",
+		"keywords": [
+			"Football"
+		]
+	}]
 }
